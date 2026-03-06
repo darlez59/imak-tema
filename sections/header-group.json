@@ -41,6 +41,7 @@
         "announcement_kWpWi8",
         "announcement_qhwmhW"
       ],
+      "disabled": true,
       "name": "t:sections.announcement-bar.name",
       "settings": {
         "section_width": "stretch_width",
